@@ -1,6 +1,3 @@
----
-
-```markdown
 # RSA Theory and Exploit Scripting
 
 ## 1. RSA Theory (The Essentials)
@@ -20,10 +17,6 @@ RSA is an asymmetric encryption algorithm. It uses a public key for encryption a
 You will need the pycryptodome library for most Python-based crypto challenges.
 
 pip install pycryptodome
-
-```
-
----
 
 ## 3. Exploit Scripts
 
